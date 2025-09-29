@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "hbot-chanfana-openapi-template",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "hbot-openapi-template-db",
+      "database_id": "1561e9ff-93ea-4b23-a983-0c6685f129cf"
+    }
+  ]
+}
